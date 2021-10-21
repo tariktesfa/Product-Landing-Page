@@ -1,2 +1,2 @@
 # Product-Landing-Page
-This a Microverse trial for HTML and CSS project
+This is a Microverse trial for HTML and CSS project implemented by coding partners.
